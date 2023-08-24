@@ -1,0 +1,32 @@
+*{
+    background-color: #252B48;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* ESTILO PARA ENCABEZADO */
+
+.primer-h1{
+    text-align: center;
+    color: #5B9A8B;
+    font-size: 50px;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px #000;
+}
+/* ESTILO PARA PÁRRAFO */
+.p1{
+    text-align: center;
+    color: #5a698a;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+/* ESTILO PARA ENLACES */
+.link{
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    color: #c2bebe;
+}
